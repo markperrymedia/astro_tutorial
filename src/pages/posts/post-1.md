@@ -10,7 +10,7 @@ image:
     alt: 'The Astro logo on a dark background with a pink glow.'
 tags: ["astro", "blogging", "learning in public"]
 ---
-# My First Blog Post
+# My First Blog Post Heading 1
 
 Published on: 2022-07-01
 
